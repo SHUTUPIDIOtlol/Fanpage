@@ -1,11 +1,10 @@
-<p><a href="https://github.com/SHUTUPIDIOtlol/Fanpage">my github!</a></p>
+<p><a href="https://github.com/SHUTUPIDIOtlol/Fanpage">my github!</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 
-<h1>welcome to tulip&#39;s fanpage!</h1> just a random cat pic hehe
-https://user-images.githubusercontent.com/108738016/230755223-d35f882a-ea8e-4f76-bed7-c2c6ffbc8aa4.png
+<h1>welcome to tulip&#39;s fanpage!</h1>
 
 <p>Feel free to explore it!</p>
 
-<p>links:</p>
+<p>&nbsp;links:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="cat" src="https://user-images.githubusercontent.com/108738016/230755223-d35f882a-ea8e-4f76-bed7-c2c6ffbc8aa4.png" style="height:200px; width:150px" />&nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <ol>
 	<li><a href="https://www.youtube.com/channel/UC1KHHkWobwI-moyKbqDt09Q">click to go to tulip&#39;s channel!</a>.</li>
