@@ -1,3 +1,5 @@
+<p><a href="https://github.com/SHUTUPIDIOtlol/Fanpage">my github!</a></p>
+
 <h1>welcome to tulip&#39;s fanpage!</h1>
 
 <p>Feel free to explore it!</p>
@@ -10,7 +12,7 @@
 </ol>
 
 <hr />
-<h2 style="font-style:italic;">Thanks so much for visiting i hope you enjoy this website! :)</h2>
+<h2 style="font-style:italic">Thanks so much for visiting i hope you enjoy this website! :)</h2>
 
 <p>&nbsp;</p>
 
@@ -18,4 +20,4 @@
 
 <p>made by:</p>
 
-<h2 style="color: rgb(170, 170, 170); font-style: italic;"><code><span class="marker">xray</span></code></h2>
+<h2 style="font-style:italic"><code><span class="marker">xray</span></code></h2>
