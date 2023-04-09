@@ -1,6 +1,3 @@
-<p><img alt="click to refresh!" src="[40m jpg](https://user-images.githubusercontent.com/108738016/230754743-424e9482-dad6-4d38-b3c4-c22b1bda3eb8.png)
-s/30m.jpg" style="border-style:solid; border-width:3px; float:right; height:375px; margin-left:20px; margin-right:20px; width:500px" /></p>
-
 <h1>welcome to tulip&#39;s fanpage!</h1>
 
 <p>Feel free to explore it!</p>
