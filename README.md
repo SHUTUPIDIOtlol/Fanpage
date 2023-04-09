@@ -1,6 +1,7 @@
 <p><a href="https://github.com/SHUTUPIDIOtlol/Fanpage">my github!</a></p>
 
-<h1>welcome to tulip&#39;s fanpage!</h1>
+<h1>welcome to tulip&#39;s fanpage!</h1> just a random cat pic hehe
+https://user-images.githubusercontent.com/108738016/230755223-d35f882a-ea8e-4f76-bed7-c2c6ffbc8aa4.png
 
 <p>Feel free to explore it!</p>
 
